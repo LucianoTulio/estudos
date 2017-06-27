@@ -1,0 +1,27 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "projeto de estudo da linguagem typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile":"tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucianoTulio/estudos.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "luciano.tulio@me.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucianoTulio/estudos/issues"
+  },
+  "homepage": "https://github.com/LucianoTulio/estudos#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
